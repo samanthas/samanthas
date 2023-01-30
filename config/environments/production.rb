@@ -26,7 +26,7 @@ Rails.application.configure do
 
   
   # Asset compression
-  config.assets.css_compressor = :yui
+  #config.assets.css_compressor = :yui
   #config.assets.js_compressor = :terser
   
 
